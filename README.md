@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👨‍💻, I'm Kanan Gasimov.</h1>
 <h3 align="center">A passionate, creative and dedicated Junior Front-End Web Developer, eager to make a mark in the world of web development.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Dh5q0sShxgp13DwrvG/200w.webp">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.webp">
 - 🔭 I’m currently working on [Metaliga](https://metaliga.io/)
 
 - 🌱 I’m currently learning **Backend: Nodejs, MongoDB, ExpressJS, Mongoose and RESTful API Development, Mobile dev: React Native**
